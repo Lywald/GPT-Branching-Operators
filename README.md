@@ -8,8 +8,8 @@ from GPT_Operators import * <br>
 setGPTKey("sk-ZZZ...") ### You need to provide the API Key from OpenAI <br>
  <br>
 if ifGPT("Is the sky blue?"): <br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("Yep, the sky is blue.") <br>
+&emsp; print("Yep, the sky is blue.") <br>
 else: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("What?") <br>
+&emsp; print("What?") <br>
  <br>
 Output: <b>Yep, the sky is blue <br></b>
