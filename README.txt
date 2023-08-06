@@ -5,17 +5,11 @@ I am still a CompSci student so the code is not very polished, but it is a proof
 
 
 from GPT_Operators import *
-
 setGPTKey("sk-ZZZ...") ### You need to provide the API Key from OpenAI
 
-
 if ifGPT("Is the sky blue?"):
-
     print("Yep, the sky is blue.")
-    
 else:
-
     print("What?")
-
 
 Output: Yep, the sky is blue
